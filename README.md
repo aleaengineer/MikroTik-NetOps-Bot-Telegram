@@ -68,8 +68,6 @@ MIKROTIK_PASS = 'password_bot'
 # -------------------
 ```
 
-> **⚠️ PERINGATAN KEAMANAN SANGAT PENTING:** > **JANGAN PERNAH** meng-commit atau mengunggah Token Telegram dan Password MikroTik Anda yang asli ke GitHub publik. Selalu gunakan file `.env` (environment variables) atau pastikan variabel di atas dikosongkan/disamarkan sebelum melakukan `git push`.
-
 ### 5. Jalankan Bot
 ```bash
 python bot_mikrotik.py
@@ -89,9 +87,8 @@ python bot_mikrotik.py
 
 ## 👨‍💻 Penulis
 
-* **Ale** - *NOC Engineer* | [Ngoprek Jaringan]
+* **aleaengineer** - *NOC Engineer* | [Ngoprek Jaringan]
 
 ## 📜 Lisensi
 
 Proyek ini menggunakan lisensi MIT. Silakan dimodifikasi dan dikembangkan lebih lanjut sesuai kebutuhan operasional jaringan Anda.
-```
