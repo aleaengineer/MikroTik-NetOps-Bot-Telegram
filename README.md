@@ -37,8 +37,8 @@ Sebelum menjalankan bot ini, pastikan Anda memiliki:
 
 ### 1. Kloning Repositori
 ```bash
-git clone [https://github.com/USERNAME_ANDA/nama-repo-bot-mikrotik.git](https://github.com/USERNAME_ANDA/nama-repo-bot-mikrotik.git)
-cd nama-repo-bot-mikrotik
+git clone https://github.com/aleaengineer/MikroTik-NetOps-Bot-Telegram/
+cd MikroTik-NetOps-Bot-Telegram
 ```
 
 ### 2. Instalasi Dependensi (Library)
