@@ -87,7 +87,7 @@ python bot_mikrotik.py
 
 ## 👨‍💻 Penulis
 
-* **aleaengineer** - *NOC Engineer* | [Ngoprek Jaringan]
+* **Aleaengineer** - *NOC Engineer* | [farhanale.my.id](https://farhanale.my.id/)
 
 ## 📜 Lisensi
 
