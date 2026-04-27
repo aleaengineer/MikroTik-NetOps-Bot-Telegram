@@ -3,8 +3,8 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import routeros_api
 
 # --- KONFIGURASI ---
-TELEGRAM_TOKEN = 'MASUKKAN_TOKEN_BOT_ANDA'
-ADMIN_CHAT_ID = 12345678   # Chat ID Telegram Anda (Sangat penting!)
+TELEGRAM_TOKEN = 'MASUKKAN_TOKEN_BOT_ANDA_DISINI'
+ADMIN_CHAT_ID = 12345678   # Chat ID Telegram
 
 MIKROTIK_IP = '10.10.10.1'
 MIKROTIK_USER = 'user_mikrotik'
@@ -298,5 +298,5 @@ def process_address_list_ip(message):
         bot.send_message(chat_id, f"❌ Gagal: `{e}`", parse_mode="Markdown")
 
 # --- JALANKAN ---
-print("Bot dengan Fitur Lengkap (Filter, NAT, Mangle, Address List) berjalan...")
+print("Bot sedang berjalan...")
 bot.infinity_polling()
