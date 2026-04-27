@@ -55,7 +55,7 @@ Buka terminal MikroTik (via Winbox/SSH) dan jalankan perintah berikut:
 *(Direkomendasikan: Buat user khusus di MikroTik hanya untuk bot ini dengan kredensial yang kuat).*
 
 ### 4. Konfigurasi Script
-Buka file `bot_mikrotik.py` menggunakan teks editor pilihan Anda dan ubah variabel berikut dengan data riil Anda:
+Buka file `main.py` menggunakan teks editor pilihan Anda dan ubah variabel berikut dengan data riil Anda:
 
 ```python
 # --- KONFIGURASI ---
